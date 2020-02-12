@@ -14,7 +14,7 @@ We have to create the below files for creating a wordpress theme
 
 #### Loading the css and javascript file
 
-##### Below function are need to be write in the functions.js file
+##### Below function are need to be write in the functions.php file
 
 **Create a function to load css file**
 
